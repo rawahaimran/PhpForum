@@ -1,0 +1,9 @@
+*{
+ text-decoration: none !important;
+ outline:none !important;
+ box-shadow: none !important;
+}
+*:focus{
+    outline:none  !important;
+    box-shadow:none !important
+}
